@@ -14,3 +14,7 @@ Google Gemini Integration: Utilizes the capabilities of the Google Gemini model 
 Additional Features
 React-based Development: Leverages React's efficient component-based approach for building the application.
 CSS Styling: Employs CSS to style the user interface for visual appeal and usability.
+
+#Installation
+npm install vite
+npm run dev
